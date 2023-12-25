@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Soham Pawar. I am currently pursuing B.tech in Computer Science in Manipal Institute of Technology,Manipal.
+My name is Soham Pawar. I am currently pursuing B.tech in Computer Science at Manipal Institute of Technology,Manipal.
 
 I am interested in coding and am currently learning Web Developement
 
