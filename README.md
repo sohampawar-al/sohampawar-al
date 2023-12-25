@@ -1,16 +1,10 @@
 ### Hi there 👋
 
-<!--
-**sohampawar-al/sohampawar-al** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Soham Pawar. I am currently pursuing B.tech in Computer Science in Manipal Institute of Technology,Manipal.
 
-Here are some ideas to get you started:
+I am interested in coding and am currently learning Web Developement
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Front End Developement
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: email: 
+- 📫 How to reach me: email:soham.pawar@hotmail.com phone: +91 9405845950
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
--->
+  
